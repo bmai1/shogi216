@@ -1,6 +1,5 @@
 Shogi GUI in Rust with lishogi assets, shogi-rs, and apery_rust shogi engine. 
-
-What is Shogi? It's Japanese chess, and I suck at it.
+Currently only supports player vs. engine, or player vs. player on one device.
 
 ## Installation
 
@@ -28,11 +27,3 @@ cargo run
 ## Demo
 
 https://github.com/user-attachments/assets/58d2ca56-ae4a-4f7f-b5db-17d639507a50
-
-
-## Reference
-
-![pieces](/reference/moves.png)
-
-
-
