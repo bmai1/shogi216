@@ -1,4 +1,5 @@
 Shogi GUI in Rust with lishogi assets, shogi-rs, and apery_rust shogi engine. 
+
 Currently only supports player vs. engine, or player vs. player on one device.
 
 ## Installation
